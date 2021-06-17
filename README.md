@@ -25,6 +25,12 @@ Please make sure you have install the [AWS CLI](https://docs.aws.amazon.com/cli/
 aws --version
 ```
 
+### Configure AWS CLI using the CONFIGURE command
+```bash
+aws configure
+# AWS Access Key ID: <Enter Key>
+# AWS Secret Access Key: <Enter Key>
+```
 
 
 
